@@ -1,5 +1,6 @@
 # Zombie GAMEMODE
-Hola como estan soy Pac0... Un scripter de sa-mp que empezo a los 11 años en pawn y hasta hoy la actualidad con 18 años fuí activo y semi activo en la comunidad... Pero todo tiene un inicio y un fin.
+Hola como estan soy Pac0. 
+Un scripter de sa-mp que empezo a los 11 años en pawn y hasta hoy la actualidad con 18 años fuí activo y semi activo en la comunidad... Pero todo tiene un inicio y un fin.
 
 Este va a ser mi ultimo aporte para la plataforma de SA-MP...
 Esta gamemode tiene bastante tiempo trabajado en ella y creó que fue uno de mis proyectos más grandes realizado... 
