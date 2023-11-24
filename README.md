@@ -29,6 +29,7 @@ Contenido:
 - Hay muchas cosas no voy a llegar a escribir todo.. Una de las ultimas actualizaciónes fueron en las 300 zonas de capturas donde cuando capturas una zona se bloquea temporalmente y si sos vip dependiendo de tu nivel de vip
 - ganas más experiencia.
 
+
 - Ultimas 
 
 Y entre más.
