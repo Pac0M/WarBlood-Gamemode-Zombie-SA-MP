@@ -57,8 +57,5 @@ Ajusten los bots de los FS a su gusto
 
 
 Si quieren que los zombies corran modifiquen los llamados de zombie_species
-
- * War Blood, Zombie Land (Presente por Pac0) , Invasión Z , Plaga Z
- * Copyright Pac0?... Todo es libre chicos hagan lo que quieran, si no respetan creditos es porque son lacras ;)
  
 
