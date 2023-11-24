@@ -16,11 +16,20 @@ Contenido:
 - Rangos , puntos , conquistas.
 - Eventos.
 - Vips.
+- Oro Prime y Patreon, hay dos niveles más de vips inhabilitados disponibles (para habilitarlo hay que ponerle el tiempo de reseteo).
+- Los vips pueden tener ventajas en los eventos hechos por la administración... Armas, regeneracion de vida cada 1 minuto entre otras.
 - Bots inteligentes (Zombies) - (Humanos).
-- NPCs con recorridos de bombardeo en hydra.
+- Dos tipos de zombies caminadores y corredores.
+- NPCs con recorridos de bombardeo en hydra (Hay que activarlos, estan en FS o pueden grabar un nuevo recorrido con el mismo FS).
 - Facciones.
 - Misiones.
 - Sincronización de sistemas de conquista de zonas con bots zombies y puntos, rango.
+- Anti Cheat de NEX-AC configurado.
+- Tiene varios Warnings pero son inrelevantes solo que no tuve tiempo y me daba flojera para sacarlos.
+- Hay muchas cosas no voy a llegar a escribir todo.. Una de las ultimas actualizaciónes fueron en las 300 zonas de capturas donde cuando capturas una zona se bloquea temporalmente y si sos vip dependiendo de tu nivel de vip
+- ganas más experiencia.
+
+- Ultimas 
 
 Y entre más.
 
