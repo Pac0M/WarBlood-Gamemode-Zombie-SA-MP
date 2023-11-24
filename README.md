@@ -1,4 +1,4 @@
-# WarBlood-Gamemode-Zombie-SA-MP
+# Zombie GAMEMODE
 
 Este va a ser mi ultimo aporte para la plataforma de SA-MP...
 Esta gamemode tiene bastante tiempo trabajado en ella... 
@@ -30,3 +30,15 @@ Y entre más.
 ```bash
 git clone https://github.com/tu-usuario/SA-MP-Zombies-Gamemode.git
 cd WarBlood-Gamemode-Zombie-SA-MP
+
+
+Ajusten los bots de los FS a su gusto
+
+#define TEAM_HUMANOS 0
+#define TEAM_ZOMBIES 2
+#define TEAM_LEGION 3
+#define TEAM_CENTINELAS 4
+
+
+RNPC_SPEED_WALK // Cambien esto si quieren que corran.
+
