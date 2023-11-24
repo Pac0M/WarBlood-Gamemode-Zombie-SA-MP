@@ -44,7 +44,7 @@ Y entre más.
 El video más reciente de lo que es la gamemode: https://www.youtube.com/watch?v=YHNuTLQDHUI
 
  * War Blood, Zombie Land (Presente por Pac0) , Invasión Z , Plaga Z
- * Copyright Pac0?... Todo es libre chicos hagan lo que quieran, si no respetan creditos es porque son lacras ;) Atte:  Pac0
+ * Copyright Pac0?... Todo es libre chicos hagan lo que quieran.
 
 ## Instalación
 
