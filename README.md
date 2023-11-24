@@ -38,6 +38,8 @@ Contenido:
 Y entre más.
 
 
+El video más reciente de lo que es la gamemode: https://www.youtube.com/watch?v=YHNuTLQDHUI
+
 ## Instalación
 
 
