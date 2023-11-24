@@ -40,5 +40,5 @@ Ajusten los bots de los FS a su gusto
 #define TEAM_CENTINELAS 4
 
 
-RNPC_SPEED_WALK // Cambien esto si quieren que corran.
+Si quieren que los zombies corran modifiquen los llamados de zombie_species 
 
