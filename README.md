@@ -1,10 +1,5 @@
 # Zombie GAMEMODE
-Hola como estan soy Pac0. 
-Un scripter de sa-mp que empezo a los 10-11 años en pawn y hasta hoy la actualidad con 18 años fuí activo y semi activo en la comunidad... Pero todo tiene un inicio y un fin.
 
-Este va a ser mi ultimo aporte para la plataforma de SA-MP...
-Esta gamemode tiene bastante tiempo trabajado en ella y creó que fue uno de mis proyectos más grandes realizado... 
-Se utilizo la base de Resident Evil que practicamente era muy poco codigo (solo tenia humanos y zombies (players)) por eso dice "desde 0", pero respetando el codigo que utilice fue Resident Evil...
 
 IMPORTANTE : Cabe aclarar que no estoy relacionado actualmente y hace mucho con ningun proyecto externo a WarBlood... Si bien esta gamemode se utilizo con varios nombres siempre fui el unico propietario y desarrollador de la misma, Y no desarrollo más en sa-mp. Aclaro esto porque no es la primera vez que sea hacen pasar por mí.. Mi discord : pac0m (Estoy fuera de SA-MP) solo aclaro por sí necesitan saber mi verdadero discord.
 
