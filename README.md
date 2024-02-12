@@ -1,9 +1,8 @@
 # Zombie GAMEMODE
 
 
-IMPORTANTE : Cabe aclarar que no estoy relacionado actualmente y hace mucho con ningun proyecto externo a WarBlood... Si bien esta gamemode se utilizo con varios nombres siempre fui el unico propietario y desarrollador de la misma, Y no desarrollo más en sa-mp. Aclaro esto porque no es la primera vez que sea hacen pasar por mí.. Mi discord : pac0m (Estoy fuera de SA-MP) solo aclaro por sí necesitan saber mi verdadero discord.
+IMPORTANTE : Cabe aclarar que no estoy relacionado actualmente y hace mucho con ningun proyecto externo a WarBlood... Si bien esta gamemode se utilizo con varios nombres siempre fui el unico propietario y desarrollador de la misma, Y no desarrollo más en sa-mp. Mi discord : pac0m 
 
-Dejo de hablar y si alguien utiliza esto espero que le sirva :).
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
