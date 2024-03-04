@@ -1,9 +1,5 @@
 # Zombie GAMEMODE
 
-
-IMPORTANTE : Cabe aclarar que no estoy relacionado actualmente y hace mucho con ningun proyecto externo a WarBlood... Si bien esta gamemode se utilizo con varios nombres siempre fui el unico propietario y desarrollador de la misma, Y no desarrollo más en sa-mp. Mi discord : pac0m 
-
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Contenido:
@@ -28,17 +24,8 @@ Contenido:
 
 - Creditos : Pac0 //Desarrollador
 - Base de sistema de mordidas utilizada de Resident Evil (Codigo de 300 lineas aprox) (no existe más xD).
-- Espero que disfruten esto... Esta gamemode es una mezcla de el old tdm con algo del actual. Un placer a ver estado tanto tiempo en SA-MP, Nos Vemos en otros rumbos ;)
+- Espero que disfruten esto... Esta gamemode es una mezcla de el old tdm con algo del actual. 
 
-
-
-Y entre más.
-
-
-El video más reciente de lo que es la gamemode: https://www.youtube.com/watch?v=YHNuTLQDHUI
-
- * War Blood, Zombie Land (Presente por Pac0) , Invasión Z , Plaga Z
- * Copyright Pac0?... Todo es libre chicos hagan lo que quieran.
 
 ## Instalación
 
