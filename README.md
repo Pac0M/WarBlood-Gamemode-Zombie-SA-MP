@@ -1,4 +1,4 @@
-# Zombie GAMEMODE (Repositorio desactualizado)
+# Zombie GAMEMODE (Repositorio desactualizado 20/4/24)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
